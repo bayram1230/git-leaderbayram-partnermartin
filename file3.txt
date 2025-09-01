@@ -1,1 +1,2 @@
 conflicted file
+normal file
